@@ -3,4 +3,4 @@
 _Developed with Elisabetta Cainazzo._
 
 Implementation of a lightweight version of the RTS/CTS protocol in a Wireless Sensor Network operating on the IEEE 802.15.4 protocol using TOSSIM emulator.
-Code and report are included.
+Code and [report](https://github.com/stefanomaxenti/WirelessInternet-IOT_Polimi-2020-21/blob/main/Report.pdf) are included.
